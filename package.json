@@ -3,6 +3,10 @@
   "version": "0.0.3",
   "description": "This is a group assignment2",
   "author": "Diksha Patel",
+  "engines": {
+    "node": "20.2.0",
+    "npm": "9.6.6"
+  },
   "scripts": {
     "start": "node server.js"
   },
