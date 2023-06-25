@@ -1,7 +1,7 @@
 {
-  "name": "mdev1004-assignment1",
+  "name": "mdev1004-assignment2",
   "version": "0.0.3",
-  "description": "This is a group assignment1",
+  "description": "This is a group assignment2",
   "author": "Diksha Patel",
   "scripts": {
     "start": "node server.js"
